@@ -1,4 +1,4 @@
-# fascinating_number
+# fascinating_number  [![forthebadge](https://forthebadge.com/images/badges/made-with-python.svg)](https://forthebadge.com)
 It finds the given range of fascinating numbers
 
 <br>
